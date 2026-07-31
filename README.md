@@ -1,6 +1,6 @@
 #Hi I'm Clark 👋
 
-I am a Real investing estate analyst teaching myself to build. Interested in forecasting, experimentation, and data products that reach real users.
+I am a Real estate investing analyst teaching myself to build. Interested in forecasting, experimentation, and data products that reach real users.
 
 Currently building **[BikePredict](https://bikepredict.fyi)** — a machine learning system that predicts Citi Bike availability across ~2,400 NYC stations, 1 hour to multiple days ahead. Live GBFS data, weather forecasts, and MTA subway data feed 18 production models across 6 horizons. The app is live, a Meta ad campaign is running, and signups are tracked end-to-end via Pixel.
 
